@@ -6,4 +6,4 @@ Low-level Optimization of Matrix-mult and Sort
 
 This project explores optimizations made to integer matrix multipy and array sort programs. 
 
-Paper can be downloaded [here]().
+Paper can be downloaded [here](https://github.com/sclaxton/optimization_project/blob/master/paper.pdf).
